@@ -1,0 +1,153 @@
+html,body{
+    font-family: 'Poppins', sans-serif;
+   
+}
+h1{
+    font-family:  'Poppins', sans-serif;
+    font-size: x-large;
+}
+
+div{
+    text-align: justify;
+    text-justify: inter-word;
+}
+.color-highlight{
+    color: #F11760;
+    font-weight: 1000;
+    font-size: 40px;
+    text-emphasis: bold;
+}
+.half-width{
+    width: 30%;
+    float: left;
+    margin-left: 10%;
+    padding-left: 2%;
+    margin-top: 8%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: #F11760;
+    padding: 10px 20px;
+    color: white;
+    margin-top: 24%;
+    border-radius: 5px;
+    font-weight: 700;
+    position: relative;
+}
+section{
+    height: 500px;
+    padding-bottom: 300px;
+}
+
+.top-banner{
+    background-image: url("personal-website/header-bg.png");
+    background-repeat: no-repeat;
+}
+.half-width img{
+    width: 130%;
+    
+    height: 60%;
+
+}
+.Biography{
+    background-image: url('personal-website/biography-bg.png');
+    background-repeat: no-repeat;
+}
+.Presentation{
+    background-image: url('personal-website/latest-work-bg.png');
+    background-repeat: no-repeat;
+}
+
+.swiper-container {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 500px;
+    height: 450px;
+    background: #fff;
+
+  }
+  .img{
+      width: 500px;
+      height: 450px;
+  }
+  .swiper-slide .img-bg{
+      width: 100%;
+      height: 400px;
+      overflow: hidden;
+  }
+
+  .swiper-slide .img-bg img{
+      width: 100%;
+  }
+
+  .swiper-slide .Details{
+      box-sizing: border-box;
+      padding: 20px;
+  }
+
+  .swiper-slide .Details h3{
+      margin: 0;
+      padding: 0;
+      font-size: 20px;
+      text-align: center;
+      line-height: 20px;
+  }
+  .swiper-slide .Details h3 span{
+      font-size: 700;
+      color: #F11760;
+  }
+
+  .footer{
+      background-image: url('personal-website/footer-bg.png');
+      background-repeat: no-repeat;
+  }
+
+  .name{
+      text-align: center;
+      margin-top: 100px;
+  }
+  #color{
+      color: dimgray;
+      text-align: center;
+  }
+.comment{
+    margin-left: 335px;
+    margin-right: 300px;
+    text-align: center;
+}
+.box p{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.box{
+    border: 5px solid #F11760;
+    border-radius: 10px;
+    width: 700px;
+    height: 180px;
+    margin-left: 320px;
+    background-image: linear-gradient(60deg,#f81963, #F11760 );
+    text-justify: auto;
+    color: white;
+    
+
+
+    
+    
+}
+
+
+
+footer p{
+    text-align: center;
+    font-size: 12px;
+   
+}
+
+
